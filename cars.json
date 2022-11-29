@@ -1,0 +1,17 @@
+{
+    "title": "Cool Firearms",
+    "firearms": [
+        {
+            "name": "Type 97",
+            "cartridge": "5.56x45mm",
+            "make": "Norinco",
+            "action": "Short Stroke Gas Piston"
+        },
+        {
+            "name": "model 1897",
+            "cartridge": "12 gauge",
+            "make": "Winchester",
+            "action": "Pump Action"
+        }
+    ]
+}
