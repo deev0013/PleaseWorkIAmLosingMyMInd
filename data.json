@@ -20,7 +20,7 @@
     "car4":{
         "name": "Toyota Tundra",
         "power": "271 bhp",
-        "imgRef": "images/tundra",
+        "imgRef": "images/tundra.png",
         "value": "20000"
     }
 }
